@@ -1,0 +1,341 @@
+Q1-ans
+Option- B.16,8
+
+
+
+Let the speed of the faster train be v1 and the speed of the slower train be v2.
+
+When the trains are running in the same direction, the relative speed is v1 - v2.
+
+The distance traveled by the faster train to cross the slower train is 125 + 115 = 240 meters.
+
+The time taken for the faster train to cross the slower train is 30 seconds.
+
+Therefore, the relative speed is v1 - v2 = 240/30 = 8 meters per second.
+
+When the trains are running in opposite directions, the relative speed is v1 + v2.
+
+The distance traveled by the two trains to cross each other is 125 + 115 = 240 meters.
+
+The time taken for the two trains to cross each other is 10 seconds.
+
+Therefore, the relative speed is v1 + v2 = 240/10 = 24 meters per second.
+
+Now, we can solve for v1 and v2.
+
+v1 - v2 = 8
+
+v1 + v2 = 24
+
+Adding these two equations, we get 2v1 = 32
+
+Therefore, v1 = 16 meters per second.
+
+Substituting this value of v1 into the first equation, we get v2 = 8 meters per second.
+
+Therefore, the speed of the faster train is 16 meters per second and the speed of the slower train is 8 meters per second.
+
+
+
+
+
+Q2-ans
+Option- D.10 seconds
+
+
+
+The speed of the first train is 50 km/hr = 50000/3600 = 13.88 m/s
+The speed of the second train is 60 km/hr = 60000/3600 = 16.66 m/s
+The relative speed of the trains is 13.88 + 16.66 = 30.54 m/s
+The total distance to be covered is 140 + 166 = 306 meters
+The time taken to cross each other is 306/30.54 = 10 seconds
+So the answer is 10
+
+
+
+
+Q3-ans
+
+
+
+
+
+
+Let's first find the speed of each train when it is running past the man.
+
+Train 1: 125 meters / 36 seconds = 3.47 meters per second
+Train 2: 115 meters / 26 seconds = 4.42 meters per second
+Now, we can find the relative speed of the two trains by adding their speeds together.
+
+Relative speed = 3.47 meters per second + 4.42 meters per second = 7.89 meters per second
+Finally, we can find the ratio of their speeds by dividing the speed of Train 1 by the speed of Train 2.
+
+Ratio of speeds = 3.47 meters per second / 4.42 meters per second = 0.78
+Therefore, the ratio of the speeds of the two trains is 78:100.
+
+
+
+
+Q4-ans
+Option D.33
+
+
+
+
+Time taken to cross the platform= total distance covered/speed of train
+Distance covered = length of train + length of platform
+
+= 240 + 400 = 660 meters
+
+Speed of train = Distance (length of train) / time taken to cross the pole
+240/12= 20m/sec
+
+So,time taken to cross the platform =660/33= 33m/s
+
+
+
+
+
+Q5-ans
+Option C. 240 & 660
+
+
+
+
+
+Speed of train = 108 km/hr = 108×5/18 = 30 m/s
+Let the length of train = L
+Length of platform = P
+Time taken to cross the platform = 30 s
+Distance covered in 30 s = 30×30 = 900 m
+⇒ L+P = 900 --- (1)
+Now, the train crosses a man running at 12 km/hr in the same direction of train in 9 seconds.
+Relative speed of train with respect to man = 108-12 = 96 km/hr = 96×5/18 = 26.66 m/s
+Distance covered in 9 s = 26.66×9 = 240 m
+⇒ L = 240 m
+From (1), P = 900-L = 900-240 = 660 m
+Therefore, the length of the train is 240 m and the length of the platform is 660 m.
+
+
+
+Q6-ans
+Option C. 340 km
+
+
+
+
+The distance between the stations is equal to the sum of distance covered by each train.
+
+Let the distance covered by first distance = X
+
+So, the distance covered by second train = X + 20
+
+When the two trains starts from two different stations at the same time towards each other, they take same time to meet each other.
+
+time= distance/speed
+
+
+so
+45X = 40X + 800
+
+45X − 40X = 800
+
+5X = 800
+X = 160km
+Then distance covered by second train = 160 + 20 =180 km
+
+So, the distance between stations P and Q = 160 + 180 = 340 km
+
+
+
+Q7-ans
+
+
+
+
+Let's first find the speed of each train.
+
+Train 1: 28 seconds / 240 meters = 1.125 meters per second
+Train 2: 18 seconds / 180 meters = 1 meter per second
+Now, let's find the total distance traveled by the two trains when they cross each other.
+
+Total distance = (1.125 meters per second) x (26 seconds) = 29.375 meters
+Now, we can find the ratio of their speeds by dividing the speed of train 1 by the speed of train 2.
+
+Ratio of speeds = (1.125 meters per second) / (1 meter per second) = 1.125
+Therefore, the ratio of the speeds of the two trains is 1.125:1.
+
+
+
+Q8-ans
+Option B.
+4:3
+
+
+
+As the trains start simultaneously, they will cover equal distances in the first half of the journey.
+
+Therefore,
+x/9 = y/16
+x:y = 16:9
+Therefore, the ratio of the speeds of the two trains is 16:9.
+
+Alternatively, we can also solve this problem using the concept of relative speed.
+
+Let the relative speed of the two trains be z.
+
+As the trains are moving in opposite directions, their relative speed will be added.
+
+Therefore,
+z = x + y
+
+z = 16 + 9 = 25
+x:y = z/2 = 25/2 = 16:9
+Therefore, the ratio of the speeds of the two trains is 4:3.
+
+
+
+
+
+Q9-ans
+OPtion D.
+79.2 km/hr
+
+
+
+
+Length of the Bridge = 264 m.
+Time taken to pass the bridge = 20 sec.
+Time taken to passe the post = 8 sec.
+Length of the train = X m (Let.)
+To pass the bridge train need to cover Train's length + Bridge legnth  (X + 264).
+Speed = Distance covered / time taken
+Now,
+X/8 = (264 + X)/20
+20X = 264 *8 + 8X
+20X - X = 264 *8
+12X = 264 *8
+X = (264 *8)/12
+X = 176 m.(length of the train)
+Speed of the train = 176/8 = 22 m/sec = (22*18)/5 = 79.2 Kmph.
+
+
+
+
+Q10-ans
+Option A. 14.4 sec  
+
+
+
+
+Let length of each train be x meter.
+Then, speed of 1st train = x/18m/sec
+Speed of 2nd train = x/12m/sec
+Now,
+When both trains cross each other, time taken
+    /
+=2x/((x/18+(x/12)) = 14.4sec
+     /
+
+
+
+
+
+Q11-ans
+Option A. 230 m  
+
+
+
+
+The length of the other train is 230 meters.
+
+The relative speed of the two trains is 120 + 80 = 200 kmph = 500/9 m/s.
+
+The total distance that the trains need to travel to cross each other is 270 + x meters, where x is the length of the other train.
+
+The time it takes for the trains to cross each other is 9 seconds.
+
+Therefore, we have the equation 500/9 = (270 + x) / 9.
+
+Solving for x, we get x = 230 meters.
+
+
+
+Q12-ans
+Option B.10.00
+
+
+
+Assume both trains meet after x hours after 7 am
+
+Distance covered by train starting from P in x hours = 20x km
+
+Distance covered by train starting from Q in (x-1) hours = 25(x-1)
+
+Total distance = 110
+
+=> 20x + 25(x-1) = 110
+
+=> 45x = 135
+
+=> x= 3
+
+Means, they meet after 3 hours after 7 am, ie, they meet at 10 am
+
+
+
+
+
+Q13-ans
+Option C. 60
+
+
+
+
+
+The distance between stations A and B is 60 kilometers.
+
+Let the speed of the train when it covers the distance in 45 minutes be v. The distance traveled in 45 minutes is v * 45/60 = 3v/4 kilometers.
+
+When the speed of the train is reduced by 5 kilometers per hour, the new speed is v - 5. The distance traveled in 48 minutes is (v - 5) * 48/60 = 3v - 10/4 kilometers.
+
+Since the train travels the same distance in both cases, we have the equation 3v/4 = 3v - 10/4. Solving for v, we get v = 60 kilometers per hour.
+
+Therefore, the distance between stations A and B is 3v/4 = 60 * 3/4 = 60 kilometers.
+
+
+
+
+Q14-ans
+Option A. 5 hours
+
+
+
+The average speed of the first train is (2*126*90)/(126+90) = 105 km/h.
+
+The distance between stations P and Q is 525 km.
+
+Therefore, the time taken by the second train to travel 525 km is 525/105= 5 hours.
+
+
+
+
+Q15-ans
+Option C.10
+
+
+
+
+Without stoppages, in 1 hr train covers 72 km.
+With stoppages, in 1 hr train covers 60 km.
+Thus, average speed of the train is reduced by 72 - 60 = 12 km
+So the time taken to cover 12km is now actually used up at stoppages.
+Time taken to cover 12 km =(12/72) 60 minutes = 10 minutes
+
+the train stops for 1O minutes in an hour on average.
+
+
+
+
+
+
